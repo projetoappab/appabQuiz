@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppabQuiz</string>
+    <string name="appabquiz">AppabQuiz</string>
+    <string name="jogar">Jogar</string>
+    <string name="quem_descobriu_o_brasil">Quem descobriu o Brasil?</string>
+    <string name="pedro_lvares_cabral">Pedro Álvares Cabral</string>
+    <string name="crist_v_o_colombo">Cristóvão Colombo</string>
+    <string name="prof_luiz_luiztools">Prof. Luiz (LuizTools)</string>
+    <string name="responder">Responder</string>
+    <string name="donald_trump">Donald Trump</string>
+    <string name="fez_5_pontos">Fez 5 pontos!</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="todo">TODO</string>
+    <string name="pabllo_vittar">Pabllo Vittar</string>
+</resources>
